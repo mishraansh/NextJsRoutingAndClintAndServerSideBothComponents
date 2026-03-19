@@ -6,6 +6,7 @@ const DashboardPage = () => {
     <div>
         <h1>Dashboard</h1>
         <Link href={"/profile"}>View profile</Link>
+         {/* <Link href={"/dashboard/reports"}>View profile</Link> */}
     </div>
   )
 }

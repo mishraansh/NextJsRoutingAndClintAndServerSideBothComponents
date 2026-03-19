@@ -4,7 +4,8 @@ export default async function Page({ params }) {
   return (
     
     <div>
-      <h1> welcome wev page</h1>
+      <h1> welcome wev page</h1> 
+      {/* show for docs page */}
       {slug}
       </div>
   );
